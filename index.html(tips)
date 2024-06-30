@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tips for Sustainable Development</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body><header>
+      <nav><img src="https://image.slidesharecdn.com/sustainable-development-160223060948/85/Sustainable-development-ppt-1-320.jpg" height="70px" width="100px" align="left">
+          <ul>
+              <li><a href="https://6425230e-6f90-4411-81d6-51e5c80b17a6-00-vmy4502a7puz.picard.replit.dev/?name=saRFF&email=himavarsha710%40gmail.com&message=fxfhg#home">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#projects">Projects</a></li>
+              <li><a href="#contact">Contact</a></li>
+          </ul>
+      </nav>
+  </header>
+    <h1>Tips for Sustainable Development</h1>
+
+    <div class="section">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR96hD5U2Jf2FFjw5_F0zP3mWR0X55wm2GdQ&usqp=CAU" alt="Environment" class="section-image">
+        <h2>Environmental Tips</h2>
+        <ul>
+            <li>Reduce, Reuse, Recycle</li>
+            <li>Conserve Water</li>
+            <li>Use Renewable Energy</li>
+            <li>Protect Natural Habitats </li>
+            <li>Sustainable Transportation</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <img src="https://fastercapital.com/i/Sustainable-development--Sustainable-Development-in-an-Autarkic-Economy--Economic-Strategies-for-Achieving-Sustainable-Development-in-Autarky.webp" alt="Economy" class="section-image">
+        <h2>Economic Tips</h2>
+        <ul>
+            <li>Support Local Economies</li>
+            <li>Sustainable Investment</li>
+            <li>Green Jobs</li>
+            <li>Resource Efficiency</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <img src="https://media.licdn.com/dms/image/D4E12AQHq-yKdVN4mYA/article-cover_image-shrink_600_2000/0/1689250482281?e=2147483647&v=beta&t=ondygqG4yl4Zoq07p5nvyqd8tPNOrFvA4kVoxKO-Fj8" alt="Society" class="section-image">
+        <h2>Social Tips</h2>
+        <ul>
+            <li>Education and Awareness</li>
+            <li>Social Equity</li>
+            <li>Community Engagement</li>
+            <li>Healthcare Access</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <img src="https://pub.mdpi-res.com/ijerph/ijerph-18-08217/article_deploy/html/images/ijerph-18-08217-g001.png?1627986648" alt="Personal" class="section-image">
+        <h2>Personal Tips</h2>
+        <ul>
+            <li>Reduce Carbon Footprint</li>
+            <li>Sustainable Consumption</li>
+            <li>Energy Efficiency</li>
+            <li>Support Sustainable Brands.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <img src="https://sdg.rajasthan.gov.in/Content_Theme/images/5P.jpg" alt="Policy" class="section-image" >
+        <h2>Policy and Governance Tips</h2>
+        <ul>
+            <li>Advocate for Policies: </li>
+            <li>Corporate Responsibility: </li>
+            <li>Integrated Planning:</li>
+            <li>Innovation and Technology: </li>
+        </ul>
+    </div> 
+  </div> <footer>
+      <div class="footer-content">
+          <div class="footer-section about">
+              <h3>About Us</h3>
+              <p>Promoting sustainable practices for a better future. Join us in our mission to protect the environment and enhance social equity.</p>
+          </div>
+          <div class="footer-section links">
+              <h3>Quick Links</h3>
+              <ul>
+                  <li><a href="https://6425230e-6f90-4411-81d6-51e5c80b17a6-00-vmy4502a7puz.picard.replit.dev/?name=saRFF&email=himavarsha710%40gmail.com&message=fxfhg#homee">Home</a></li>
+                  <li><a href="#about">About Us</a></li>
+                  <li><a href="#projects">Projects</a></li>
+                  <li><a href="#contact">Contact</a></li>
+                  <li><a href="https://26933148-975c-4894-b646-904cc15be5d2-00-328bg2vjhelq5.spock.replit.dev/#contact">Tips</a></li>
+                  <li><a href="donate.html">Donate</a></li>
+              </ul>
+          </div>
+          <div class="footer-section contact">
+              <h3>Contact Us</h3>
+              <p><i class="fas fa-map-marker-alt"></i> 123 Sustainable St, Green City, GA 12345</p>
+              <p><i class="fas fa-phone-alt"></i> (123) 456-7890</p>
+              <p><i class="fas fa-envelope"></i> info@sustainable.org</p>
+          </div>
+          <div class="footer-section social">
+              <h3>Follow Us</h3>
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-linkedin-in"></i></a>
+          </div>
+      </div>
+      <div class="footer-bottom">
+          <p>&copy; 2024 Sustainable Development. All rights reserved.</p>
+      </div>
+  </footer>
+</body>
+</html>
